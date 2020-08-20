@@ -4,7 +4,7 @@ This is a Furniture app Ui demo... Demo to the project is found below
 A new Flutter project.
 
 #Demo
-![Alt text](https://drive.google.com/file/d/19_W35xK21c2Al-4LggsS5cQ-YPgFzKBB/view?usp=sharing)
+![Alt text](demo/Furniture App Demo.gif)
 
 ## Getting Started
 
