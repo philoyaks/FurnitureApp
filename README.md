@@ -1,20 +1,7 @@
 # Furniture App
 
-This is a Furniture app Ui demo... Demo to the project is found below
-A new Flutter project.
+This is a Furniture app Ui  built with Flutter... Demo to the project is found below...Enjoy..
 
-#Demo
-![](Furniture App Demo.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Demo
+![Furniture App Demo](https://user-images.githubusercontent.com/42491873/90808086-636c0d00-e317-11ea-9261-3caead47ee94.gif)
